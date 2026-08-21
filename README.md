@@ -198,3 +198,7 @@ Software Engineer | Python Developer | Backend Development | Generative AI
 ---
 
 ⭐ If you like this portfolio or any of my projects, feel free to explore my repositories.
+
+## 🚀 Live Portfolio
+
+https://your-vercel-url.vercel.app
