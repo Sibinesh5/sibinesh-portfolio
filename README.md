@@ -19,9 +19,9 @@ My primary interests include:
 
 ## 🚀 Live Portfolio
 
-**Portfolio:** Coming soon
+**Portfolio:** 
 
-> The live Vercel URL will be added after deployment.
+https://your-vercel-url.vercel.app
 
 ## 🛠️ Tech Stack
 
@@ -199,6 +199,3 @@ Software Engineer | Python Developer | Backend Development | Generative AI
 
 ⭐ If you like this portfolio or any of my projects, feel free to explore my repositories.
 
-## 🚀 Live Portfolio
-
-https://your-vercel-url.vercel.app
