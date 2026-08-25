@@ -21,7 +21,7 @@ My primary interests include:
 
 **Portfolio:** 
 
-https://your-vercel-url.vercel.app
+https://sibinesh-portfolio.vercel.app/
 
 ## 🛠️ Tech Stack
 
